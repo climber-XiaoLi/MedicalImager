@@ -5,6 +5,6 @@
 
 ### 界面展示
 
-![78090405879](C:\Users\admin\AppData\Local\Temp\1780904058796.png)
+![78090405879](https://github.com/climber-XiaoLi/MedicalImager/blob/main/login.png)
 
-![78090404424](C:\Users\admin\AppData\Local\Temp\1780904044246.png)
+![78090404424](https://github.com/climber-XiaoLi/MedicalImager/blob/main/main.png)
